@@ -1,6 +1,6 @@
 # Clinica Santa Teresa
 
-<img src = "">
+<img src = "images/clininca-santa-teresa-mockup.jpg">
 
 <h1> Summary </h1>
 
